@@ -1,7 +1,7 @@
 # DESAFIO POWERBI #
 ## Transformação de Dados utilizando banco de dados MySQL ##
 
-Neste desafio foi criado um banco de dados MySQL num servidor externo e foi feita a conexão utilizando o PowerBi. Algunas transformações foram feitas no PowerQuery e um relatório com alguns visuais foi feito apenas para validar a correta importação dos dados.
+Neste desafio foi criado um banco de dados MySQL num servidor externo e foi feita a conexão utilizando o PowerBi. Algumas transformações foram feitas no PowerQuery e um relatório com alguns visuais foi feito apenas para validar a correta importação dos dados.
 
 ![Relatório](relatorio.jpg)
 
